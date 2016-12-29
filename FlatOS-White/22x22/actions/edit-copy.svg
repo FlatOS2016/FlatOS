@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-copy.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1368"
+     inkscape:window-height="721"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <g
+     transform="matrix(1.3226858,0,0,1.2858758,-432.07823,82.679661)"
+     id="g3337"
+     style="fill:#f9f9f9">
+    <path
+       d="m 329,-63 c 0,0 -1,0 -1,1 l 0,9 c 0,0 0,1 1,1 l 1,0 0,-9 8,0 0,-1 c 0,-1 -1,-1 -1,-1 z m 3,3 c 0,0 -1,0 -1,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 0,0 1,0 1,-1.0029 L 340.99999,-59 c 0,-1 -1,-1 -1,-1 z m 1,2 6,0 0,8 -6,0 z"
+       style="color:#000000;opacity:0.5;fill:#f9f9f9;enable-background:new"
+       id="path3339"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="layer12"
+     transform="translate(-324 67)">
+    <path
+       id="rect5195"
+       opacity=".5"
+       style="color:#000000;enable-background:new"
+       d="m329-63s-1 0-1 1v9s0 1 1 1h1v-9h8v-1c0-1-1-1-1-1zm3 3s-1 0-1 1v10c0 1 1 1 1 1h8s1 0 1-1.0029l-0.00001-9.9971c0-1-1-1-1-1zm1 2h6v8h-6z" />
+  </g>
+</svg>
